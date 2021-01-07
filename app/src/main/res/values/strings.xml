@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MA02_20180970</string>
+
+    <string name="naver_api_url">https://openapi.naver.com/v1/search/local.xml?display=5&amp;start=1&amp;query=</string>
+    <string name="naver_client_id">ADKpP_fz7VyajfF5MYdf</string>
+    <string name="naver_client_secret">0qYWTfjGJs</string>
+
+    <string name="google_api_key">AIzaSyCXvCr6OYIEbcHsCaRQ5Z86xBYqYQSTmWU</string>
+
+    <string name="init_lat">37.541</string>
+    <string name="init_lng">126.986</string>
+</resources>
